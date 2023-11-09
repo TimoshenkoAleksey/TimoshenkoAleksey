@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aleksey. I'am java backend developer</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Hi 👋 My name is Aleksey
+========================
+
+java backend developer
+----------------------
+
+* 🌍  I'm based in Bryansk
+* ✉️  You can contact me at [\[!\[Telegram Badge\](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)\](https://t.me/TimoshenkoAleksey\_JavaDeveloper) \[!\[Gmail Badge\](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)\](mailto:timoshenkolexa@gmail.com)](mailto:[![Telegram Badge](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimoshenkoAleksey_JavaDeveloper) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timoshenkolexa@gmail.com))
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
