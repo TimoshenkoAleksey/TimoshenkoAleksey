@@ -5,11 +5,7 @@ java backend developer
 ----------------------
 
 * 🌍  I'm based in Bryansk
-* ✉️  You can contact me at [\[!\[Telegram Badge\](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)\](https://t.me/TimoshenkoAleksey\_JavaDeveloper) \[!\[Gmail Badge\](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)\](mailto:timoshenkolexa@gmail.com)](mailto:[![Telegram Badge](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimoshenkoAleksey_JavaDeveloper) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timoshenkolexa@gmail.com))
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+- :mailbox: Как связаться со мной: [\[!\[Telegram Badge\](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)\](https://t.me/TimoshenkoAleksey\_JavaDeveloper) \[!\[Gmail Badge\](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)\](mailto:timoshenkolexa@gmail.com)](mailto:[![Telegram Badge](https://img.shields.io/badge/-timoshenkoalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimoshenkoAleksey_JavaDeveloper) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timoshenkolexa@gmail.com))
 
 ### Skills
 
